@@ -1,2 +1,2 @@
-# H1 GooseStrat
+# GooseStrat
 Framework for developing management/rts games
